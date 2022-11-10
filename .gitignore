@@ -7,3 +7,4 @@ mnist_train_small.csv
 mnist_test.csv
 models/
 kaggle_predictions_CNN.csv
+kaggle_predictions_CNN copy.csv
